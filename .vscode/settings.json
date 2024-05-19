@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "UI _ Game Manager_2.sln"
+    "dotnet.defaultSolution": "Power Up - Pong_3.sln"
 }
