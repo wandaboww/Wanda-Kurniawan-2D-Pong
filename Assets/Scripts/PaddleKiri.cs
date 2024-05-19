@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PaddleController : MonoBehaviour
+public class PaddleKiri : MonoBehaviour
 {
     public float speed1;
     public KeyCode upkey;
@@ -48,3 +48,4 @@ public class PaddleController : MonoBehaviour
         speed1 *= speed;
     }
 }
+

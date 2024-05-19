@@ -34,6 +34,6 @@ public class ScoreManager : MonoBehaviour
 
     public void GameOver()
     {
-        SceneManager.LoadScene("Main Menu");
+        SceneManager.LoadScene("BackToMainMenu");
     }
 }

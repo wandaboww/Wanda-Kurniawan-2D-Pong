@@ -15,6 +15,7 @@ public class PU : MonoBehaviour
         {
             ball.GetComponent<BallController>().ActivePUSpeedUp(magnitude);
             manager.RemovePowerUp(gameObject);
+            
         }
     }
 
