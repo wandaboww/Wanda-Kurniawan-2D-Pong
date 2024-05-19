@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Pong 1 - Base gameplay.sln"
+    "dotnet.defaultSolution": "UI _ Game Manager_2.sln"
 }
